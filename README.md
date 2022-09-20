@@ -7,6 +7,7 @@
 * * [Terceiro Semestre](#em-2021-2)
 * * [Quarto Semestre](#em-2022-1)
 * * [Quinto Semestre](#em-2022-2)
+* [Meus Principais Conhecimentos](#conhecimentos)
 * [Contato](#contato)
 
 # Jonathan Gabriel <a name="introducao"></a>
@@ -65,7 +66,12 @@ Contribui com a criação de conteúdos acadêmicos para o armazenamento no site
 - Empatia - Para entender a necessidade do cliente onde o foco seja na análise e na resolução do problema;
 - Colaboração - Comprometimento com as atividades distribuídas afim de ajudar com a demanda da equipe.
 
+# Meus Principais Conhecimentos <a name="conhecimentos"></a>
+
+Possuo conhecimentos em React Native, JavaScript, HTML, CSS, Python, C, Firebase, MySQL, MongoDB, prototipagem com Figma e metodologia Scrum.
+
 <hr>
 
 # Contato <a name="contato"></a>
+
 <a href="https://www.linkedin.com/in/jonathan-gabriel-/">LinkedIn</a>
