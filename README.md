@@ -227,3 +227,14 @@ Contribui com a prototipagem das telas no <a href="https://www.figma.com/proto/9
 - Trabalho em equipe - Para a divisão de tarefas que sejam realizadas e entregues no prazo.
 
   Devido a demanda de atividades foi necessário em alguns momentos o _pair programming_, para que se pudesse obter um ganho na produtividade em tarefas que levariam um maior tempo de execução.
+
+# Meus Principais Conhecimentos <a name="conhecimentos"></a>
+
+Possuo conhecimentos em React Native, JavaScript, HTML, CSS, Python, C, Firebase, Node.JS, MySQL, MongoDB, prototipagem com Figma e metodologia Scrum.
+
+<hr>
+
+# Contato <a name="contato"></a>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-gabriel-/)
+
