@@ -7,6 +7,8 @@
 * * [Terceiro Semestre](#em-2021-2)
 * * [Quarto Semestre](#em-2022-1)
 * * [Quinto Semestre](#em-2022-2)
+* [Meus Principais Conhecimentos](#conhecimentos)
+* [Contato](#contato)
 
 # Jonathan Gabriel <a name="introducao"></a>
 
@@ -38,7 +40,6 @@ Os projetos realizados foram feitos com base no método <a href="https://fatecsj
   <img src="imagens/EliteAcademyLogo.png" width=170 alt="Logotipo Elite Academy" />
   <h3>Elite Academy</h3>
 </div>
-<br>
 
 ### Parceiro Acadêmico
 
@@ -50,7 +51,7 @@ O cliente deseja um site e-commerce para venda de conteúdos acadêmicos voltado
 
 Como solução para o cliente, foi desenvolvido o site Elite Academy onde é possível efetuar a adição dos conteúdos ao carrinho de compras, finalizar a compra destes conteúdos acadêmicos, as consultas de saldo de crédito, o cadastro de usuário e cadastro de conteúdo acadêmico.
 
-<div>
+<div align="center">
   <img src="imagens/EliteAcademyGif.gif" alt="Prévia do site Elite Academy">
   <p align="center">  <img src="imagens/EliteAcademyLogo.png" width=20 alt="Logotipo Elite Academy" /><strong> Prévia da solução Elite Academy</strong></p>
 </div>
