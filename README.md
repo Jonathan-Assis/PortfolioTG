@@ -49,7 +49,7 @@ No API do Primeiro Semestre (2020-2), o parceiro acadêmico foi a FATEC Prof. Je
 
 O cliente deseja um site e-commerce para venda de conteúdos acadêmicos voltados para a área de _Análise e Desenvolvimento de Sistemas_, desde livros em PDF a video aulas, onde os conteúdos inseridos fossem gerenciados pelo ADM do site. 
 
-Como solução para o cliente, foi desenvolvido o site Elite Academy onde é possível efetuar a adição dos conteúdos ao carrinho de compras, finalizar a compra destes conteúdos acadêmicos, as consultas de saldo de crédito, o cadastro de usuário e cadastro de conteúdo acadêmico.
+Como solução para o cliente, foi desenvolvido o site **Elite Academy** onde é possível efetuar a adição dos conteúdos ao carrinho de compras, finalizar a compra destes conteúdos acadêmicos, as consultas de saldo de crédito, o cadastro de usuário e cadastro de conteúdo acadêmico.
 
 <div align="center">
   <img src="imagens/EliteAcademyGif.gif" alt="Prévia do site Elite Academy">
@@ -96,11 +96,6 @@ Contribui com a criação de conteúdos acadêmicos para o armazenamento no site
 
 ## Em 2021-1 (Segundo Semestre) <a name="em-2021-1"></a>
 
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/73767256/120907630-80b96000-c639-11eb-8a3f-6ea0c0800ad8.png" width=170 alt="Logotipo Equipe Evolution" />
-  <h3>Equipe Evolution</h3>
-</div>
-<br>
 
 ### Parceiro Acadêmico
 
@@ -115,7 +110,7 @@ Como solução para o cliente, foi desenvolvido a **DashW** uma aplicação onde
 
 <div>
   <img src="imagens/DashWGif.gif" alt="Prévia da aplicação DashW">
-  <p align="center"><img src="https://user-images.githubusercontent.com/73767256/120907630-80b96000-c639-11eb-8a3f-6ea0c0800ad8.png" width=15 alt="Logotipo Equipe Evolution" /><strong> Prévia da solução Equipe Evolution</strong></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/73767256/120907630-80b96000-c639-11eb-8a3f-6ea0c0800ad8.png" width=20 alt="Logotipo Equipe Evolution" /><strong> Prévia da solução da Equipe Evolution</strong></p>
 </div>
 
 ### Github do Projeto
@@ -161,8 +156,7 @@ Contribui com a prototipagem das telas no <a href="https://www.figma.com/proto/G
 ## Em 2021-2 (Terceiro Semestre) <a name="em-2021-2"></a>
 
 <div align=center>
-  <img src="imagens/cluster8Logo.png" width=180 alt="Logotipo Cluster 8" />
-  <h3>Equipe Cluster 8</h3>
+  <img src="imagens/TARGETBusinessSolutionsLogo.png" width=210 alt="Logotipo Target Business Solutions" />
 </div>
 <br>
 
