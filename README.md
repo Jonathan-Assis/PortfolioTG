@@ -173,7 +173,8 @@ Contribui com a prototipagem das telas no <a href="https://www.figma.com/proto/G
 
 No API do Terceiro Semestre (2021-2), a empresa parceira foi a <a href="https://pt-br.ionic.health/">IonicHealth</a>.
 
-Sobre a <a href="https://pt-br.ionic.health/sobre">tragetoria de nosso cliente</a> do projeto IonicHealth:
+Sobre a <a href="https://pt-br.ionic.health/sobre">tragetoria de nosso cliente</a>:
+
 Em 1991, a empresa NESS Technology nasceu com foco na inovação e transformação, entregando resultados com rapidez e segurança. Assim como o mundo e a tecnologia, ao longo dos anos, a empresa também passou por constantes transformações.
 
 Em 2017, suas três principais verticais de operação: saúde, jurídica e segurança começaram a seguir seus próprios caminhos.
