@@ -1,4 +1,4 @@
-# Sumário
+# Sumário <br id="topo">
 
 * [Introdução](#introducao)
 * [Meus Projetos](#projetos)
@@ -7,6 +7,7 @@
 * * [Terceiro Semestre](#em-2021-2)
 * * [Quarto Semestre](#em-2022-1)
 * * [Quinto Semestre](#em-2022-2)
+* * [Sexto Semestre](#em-2023-1)
 * [Meus Principais Conhecimentos](#conhecimentos)
 * [Contato](#contato)
 
@@ -15,11 +16,11 @@
 ## Introdução
 <div>
   <div align=center>
-    <img src="https://avatars.githubusercontent.com/u/70578728?v=4" width=200 height=200 alt="Imagem do autor" />
+    <img src="imagens/Profile.jpg" height=200 alt="Imagem do autor" />
   </div>
   <br>
 
-  <p>Estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas na <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, em São José dos Campos - SP.
+  <p>Estudante do 6º Semestre de Análise e Desenvolvimento de Sistemas na <a href="https://fatecsjc-prd.azurewebsites.net/">Fatec Prof. Jessen Vidal</a>, em São José dos Campos - SP.
   </p>
 </div>
 
@@ -423,9 +424,86 @@ Auxiliei no levantamento dos requisitos do projeto, fiz a estruturação dos arq
 
   Devido ao projeto passado com o uso de geolocalização, tomei iniciativa pela experiência na utilização da API do Google Maps para efetuar o uso nas página de criação da ocorrência e exibição dos marcadores pela tela de chamados.
 
+## Em 2023-1 (Sexto Semestre) <a name="em-2023-1"></a>
+
+<div align=center>
+  <img src="imagens/SeeTaxLogo.png" width=210 alt="Logotipo do SeeTax" />
+</div>
+<br>
+
+### Parceiro Acadêmico
+
+No API do Sexto Semestre (2023-1), a empresa parceira foi uma instituição de serviços financeiros, sendo o nosso cliente do projeto.
+
+### Visão do Projeto
+
+O cliente deseja uma ferramenta de comparação de preços de tarifas de serviços bancários oferecidos pelas intituições financeiras, utilizando os dados disponibilizados pelo **Open Finance**.
+
+O **Open Finance** ou **Sistema Financeiro Aberto** é uma iniciativa do Banco Central do Brasil que tem como principais objetivos trazer inovação ao sistema financeiro, promover a concorrência, e melhorar a oferta de produtos e serviços financeiros.
+
+Como solução para o cliente, foi desenvolvido o **SeeTax**, uma aplicação web onde é possível visualizar pelos paineis da Dashboard a comparação, os indicadores e previsões de tarifas dos serviços bancários disponibilizados pelo **Open Finance** do Banco Central do Brasil.
+
+<!-- <div align="center">
+  <img src="imagens/SeeTax.gif" width="250" alt="Prévia do site SeeTax">
+  <p><img src="imagens/NoxLogo.png" width=30 alt="Logotipo Nox" /><strong> Prévia da solução da Equipe Nox</strong></p>
+</div> -->
+
+### Github do Projeto
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarah781/API-6-SeeTax)
+
+### Tecnologias Utilizadas
+
+- [![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+
+  Framework de Javascript, utilizado no Front-end da aplicação;
+
+- [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+  Utilizado pela versatilidade e ganho em performance na utilização de um ecossistema _JavaScript_, sendo assim uma maior segurança e eficácia na tipagem dos dados;  
+
+- [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+  
+  Framework do Java, utilizado no Back-end da aplicação;
+
+- [![](https://img.shields.io/badge/Java-DDDDDD?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
+
+  Linguagem de progamação orientada a objetos (POO), utilizada no Back-end da aplicação;
+
+- [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+  Linguagem de programação de alto nível, utilizada no desenvolvimento da IA para treinamento e previsão dos dados.
+
+### Contribuições Pessoais
+
+No projeto _SeeTax_ tive o papel de desenvolvedor (Dev Team), contribui com a prototipagem das telas no <a href="">Figma</a>, desenvolvimento do <a href="https://github.com/Jonathan-Assis/API6-SeeTax-FrontEnd">Front-end</a> da aplicação, fiz a estruturação dos arquivos, as rotas/navegação das telas da aplicação, criação das páginas de Dashboard e tarifas, efetuei a criação de components para facilitar no desenvolvimento e reaproveitamento de funcionalidade, separação da base de <a href="https://github.com/Jonathan-Assis/API6-SeeTax-FrontEnd/tree/main/src/assets/stylesheet">estilos organizada em variáveis e classes</a>, comunicação com o Back-end e utilização de stores com o <a href="https://pinia.vuejs.org/">Pinia</a>.
+
+### Hard Skills
+
+- Vue 3 - Sei fazer com autonomia;
+- Typescript - Sei fazer com autonomia;
+- Spring Boot - Sei fazer;
+- Java - Sei fazer;
+- Python - Sei fazer com autonomia;
+- Figma - Sei fazer com autonomia.
+
+### Soft Skills
+
+- Autodidatismo - Buscar e aprender sobre o framework Vue 3 e o Pinia.
+
+  Como requisitos solicitados pelo cliente de utilizar o Vue, busquei conhecimentos sobre o framework para utilizar-lo no projeto atual, assim como Pinia para o armazenamento local utilizando os stores.
+
+- Flexibilidade - Para atender as mudanças ocorridas no sprint backlog.
+
+  Houveram reajustes em algumas funcionalidades que foi necessário readaptar-las para a utilização.
+
+- Proatividade - Tomada de iniciativa na execução de tarefas propostas no backlog.
+
+  Organização e criação da estrutura da aplicação do Front-end, criação de indicaores e gráficos para serem exibidos na dashboard.
+
 # Meus Principais Conhecimentos <a name="conhecimentos"></a>
 
-Possuo conhecimentos em React Native, JavaScript, HTML, CSS, Python, C, Firebase, Node.JS, MySQL, MongoDB, prototipagem com Figma e metodologia Scrum.
+Possuo conhecimentos em Vue.JS, React, React Native, JavaScript, Typescript, HTML, CSS, Python, C, Firebase, Node.JS, MySQL, MongoDB, prototipagem com Figma e metodologia Scrum.
 
 <hr>
 
@@ -433,3 +511,4 @@ Possuo conhecimentos em React Native, JavaScript, HTML, CSS, Python, C, Firebase
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-gabriel-/)
 
+[⬆ Voltar ao topo](#topo)
