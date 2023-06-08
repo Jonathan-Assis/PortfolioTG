@@ -402,8 +402,7 @@ Auxiliei no levantamento dos requisitos do projeto, fiz a estruturação dos arq
 
 - Node.JS - Sei fazer com autonomia;
 - React Native - Sei fazer com autonomia;
-- PostgreSQl - Sei fazer com ajuda;
-- SQLite - Sei fazer com ajuda;
+- MongoDB - Sei fazer;
 - Figma - Sei fazer com autonomia.
 
 ### Soft Skills
@@ -443,10 +442,10 @@ O **Open Finance** ou **Sistema Financeiro Aberto** é uma iniciativa do Banco C
 
 Como solução para o cliente, foi desenvolvido o **SeeTax**, uma aplicação web onde é possível visualizar pelos paineis da Dashboard a comparação, os indicadores e previsões de tarifas dos serviços bancários disponibilizados pelo **Open Finance** do Banco Central do Brasil.
 
-<!-- <div align="center">
-  <img src="imagens/SeeTax.gif" width="250" alt="Prévia do site SeeTax">
+<div align="center">
+  <img src="imagens/SeeTax.gif" width="100%" alt="Prévia do site SeeTax">
   <p><img src="imagens/NoxLogo.png" width=30 alt="Logotipo Nox" /><strong> Prévia da solução da Equipe Nox</strong></p>
-</div> -->
+</div>
 
 ### Github do Projeto
 
