@@ -357,7 +357,7 @@ No API do Quinto Semestre (2022-2), o parceiro acadêmico foi a <a href="https:/
 O cliente deseja uma aplicação mobile para coleta de dados públicos, de acordo com o conceito _citizens sensors_, para auxílio da **secretaria de obras e serviço público**.
 
 Como solução para o cliente, foi desenvolvido o **Ocorrências Públicas (OP)** uma aplicação Mobile, onde o cidadão tem por objetivo reportar problemas em sua cidade, nesta aplicação ele poderá:
-- Visualizar um pequeno walkthrough (_Tutorial_): O Walkthrough será utilizado para mostrar ao cidadão sobre o que é, e onde ficam as funcionalidades do **OP**, afim de tornar a primeira experiêcia com o App mais fácil e prático;
+- Visualizar um pequeno walkthrough (_Tutorial_): O Walkthrough será utilizado para mostrar ao cidadão sobre o que é, e onde ficam as funcionalidades do **OP**, afim de tornar a primeira experiência com o App mais fácil e prático;
 
 - Reportar uma ocorrência: Selecionará a categoria e subcategoria que mais se encaixam em seu problema, efetuar a adição de foto pela galeria ou tirando uma foto com a câmera, poderá selecionar no mapa a localização do ocorrido ou selecionando a própria localização atual e informará em detalhes sobre o acontecimento;
 
